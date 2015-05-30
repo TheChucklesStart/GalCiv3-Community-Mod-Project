@@ -1,0 +1,71 @@
+5/29
+Version 0.009
+
+First contact conversations started for each race.
+
+5/26
+Version 0.008
+
+Added Exposed core colinization event
+Updated Dalek, Angels, & Cybermen starting attributes to correct clerical error resulting in smaller bonuses
+Toyed with ship designer... we really need someone with artistic talent for those.
+Added DoriumMaldovarEvent event.
+
+5/26/15
+Version 0.007
+
+First Colonization event added - Abandoned Planet.
+Dalek and Cybermen attributes modified to match their designs. Within normal limits for balance.
+HUMANS set up as cheat faction to allow for quicker testing of colonization events.
+No Hanky panky & Ragging River galactic events added.
+
+5/25/15
+Version 0.006
+Added Allons-y event Ship speed +25%
+Added Gallifrey idiological event
+Modified The Mist event no longer effects ship speed. It now gives -75% to sensors
+Modified Tardis Core event. No longer effects growth. It now gives +25% research
+Added Captain Jack idiological event
+Weeping Angels attributes modified to match their design. Within normal starting limits for balance.
+
+
+5/24/15
+Version 0.005
+
+Added ideological galactic events
+Added galactic events
+
+5/23/15
+Version 0.004
+
+Added galactic events
+Sontaran faction added
+
+5/22/15
+Version 0.003
+
+Toclafane added
+Diplomatic custom text research started (not in game)
+Shipsytle ground work and research started.
+
+
+5/21/15
+Version 0.002
+
+Fixed star name for Dalek & Angels Because no release should be perfect no mater how basic!
+Added tech tree for angels - based on Krynn
+Updated part of the angels tech tree defs
+Realized how damn big the tech def & txt files are...
+GFX assets for Vespiforms added
+GFX assets for Adipose added
+
+
+5/20/15
+Version 0.001
+
+Cybermen, Dalek, & Weeping Angels added using default starting planets for balance
+Logos added
+Leader portraits added
+Race pictures added
+Debug replacing standard FactionDefs - renamed file to allow standard GalCiv3 races to be included
+Pizza is the devil

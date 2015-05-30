@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StarSystemList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Schema/StarSystemDefs.xsd">
+<!-- Modified by Mohobie -->
+<!-- StarSystemDefs.xml -->
+ 
+  <!-- System Group -->
+ 
+  <StarSystemGroup>
+    <InternalName>WHO_Start</InternalName>
+ 
+ <!-- Cybermen system -->
+ 
+    <StarSystem>
+      <InternalName>CyberSystem</InternalName>
+      <DisplayName>CyberSystem_Name</DisplayName>
+      <Description>CyberSystem_Dec</Description>
+      <OrbitLane>
+        <LaneType>Star</LaneType>
+        <Body>
+          <BodyType>UnaryStar</BodyType>
+          <BodyDef>CyberStar</BodyDef>
+        </Body>
+      </OrbitLane>
+      <OrbitLane>
+        <LaneType>NoRandom</LaneType>
+        <Body>
+          <BodyType>Planet</BodyType>
+          <BodyDef>PlanetMondas2</BodyDef>
+        </Body>
+      </OrbitLane>
+      <OrbitLane>
+        <LaneType>HabitableZone</LaneType>
+        <Body>
+          <BodyType>Planet</BodyType>
+          <BodyDef>PlanetMondas</BodyDef>
+          <IsHomeworld>true</IsHomeworld>
+          <Position>8</Position>
+        </Body>
+        <Body>
+          <BodyType>Planet</BodyType>
+          <BodyDef>PlanetMondas3</BodyDef>
+        </Body>
+        <Body>
+          <BodyType>Planet</BodyType>
+          <BodyDef>PlanetMondas4</BodyDef>
+        </Body>
+      </OrbitLane>
+      <OrbitLane>
+        <LaneType>NoRandom</LaneType>
+        <Body>
+          <BodyType>Asteroid</BodyType>
+          <BodyDef>NormalAsteroid</BodyDef>
+          <Position>14</Position>
+        </Body>
+        <Body>
+          <BodyType>Asteroid</BodyType>
+          <BodyDef>NormalAsteroid</BodyDef>
+          <Position>4</Position>
+        </Body>
+      </OrbitLane>
+    </StarSystem>
+	
+	<!-- Dalek System -->
+	
+	<StarSystem>
+      <InternalName>DalekSystem</InternalName>
+      <DisplayName>DalekSystem_Name</DisplayName>
+      <Description>DalekSystem_Dec</Description>
+      <OrbitLane>
+        <LaneType>Star</LaneType>
+        <Body>
+          <BodyType>UnaryStar</BodyType>
+          <BodyDef>DalekStar</BodyDef>
+        </Body>
+      </OrbitLane>
+      <OrbitLane>
+        <LaneType>NoRandom</LaneType>
+        <Body>
+          <BodyType>Planet</BodyType>
+          <BodyDef>PlanetSkaroIII</BodyDef>
+        </Body>
+      </OrbitLane>
+      <OrbitLane>
+        <LaneType>HabitableZone</LaneType>
+        <Body>
+          <BodyType>Planet</BodyType>
+          <BodyDef>PlanetSkaroII</BodyDef>
+          <IsHomeworld>true</IsHomeworld>
+          <Position>5</Position>
+        </Body>
+        <Body>
+          <BodyType>Planet</BodyType>
+          <BodyDef>PlanetSkaroI</BodyDef>
+        </Body>
+      </OrbitLane>
+      <OrbitLane>
+        <LaneType>NoRandom</LaneType>
+        <Body>
+          <BodyType>Asteroid</BodyType>
+          <BodyDef>NormalAsteroid</BodyDef>
+          <Position>12</Position>
+        </Body>
+        <Body>
+          <BodyType>Planet</BodyType>
+          <BodyDef>PlanetSkaroV</BodyDef>
+        </Body>
+        <Body>
+          <BodyType>Planet</BodyType>
+          <BodyDef>PlanetSkaroIV</BodyDef>
+        </Body>
+      </OrbitLane>
+    </StarSystem>
+	
+	<!-- Angels System -->
+	
+	<StarSystem>
+      <InternalName>AngelsSystem</InternalName>
+      <DisplayName>AngelsSystem_Name</DisplayName>
+      <Description>AngelsSystem_Dec</Description>
+      <OrbitLane>
+        <LaneType>Star</LaneType>
+        <Body>
+          <BodyType>UnaryStar</BodyType>
+          <BodyDef>AngelsStar</BodyDef>
+        </Body>
+      </OrbitLane>
+      <OrbitLane>
+        <LaneType>DeadZone</LaneType>
+      </OrbitLane>
+      <OrbitLane>
+        <LaneType>HabitableZone</LaneType>
+        <Body>
+          <BodyType>Planet</BodyType>
+          <BodyDef>PlanetAphrodite</BodyDef>
+          <IsHomeworld>true</IsHomeworld>
+          <Position>5</Position>
+        </Body>
+        <Body>
+          <BodyType>Planet</BodyType>
+          <BodyDef>PlanetAphroditeAlpha</BodyDef>
+        </Body>
+        <Body>
+          <BodyType>Planet</BodyType>
+          <BodyDef>PlanetAphroditeBeta</BodyDef>
+        </Body>
+      </OrbitLane>
+      <OrbitLane>
+        <LaneType>NoRandom</LaneType>
+        <Body>
+          <BodyType>Asteroid</BodyType>
+          <BodyDef>NormalAsteroid</BodyDef>
+          <Position>15</Position>
+        </Body>
+        <Body>
+          <BodyType>Asteroid</BodyType>
+          <BodyDef>NormalAsteroid</BodyDef>
+        </Body>
+      </OrbitLane>
+    </StarSystem>
+	
+		<!-- Toclafane System -->
+	
+	<StarSystem>
+      <InternalName>ToclafaneSystem</InternalName>
+      <DisplayName>ToclafaneSystem_Name</DisplayName>
+      <Description>ToclafaneSystem_Dec</Description>
+      <OrbitLane>
+        <LaneType>Star</LaneType>
+        <Body>
+          <BodyType>UnaryStar</BodyType>
+          <BodyDef>ToclafaneStar</BodyDef>
+        </Body>
+      </OrbitLane>
+      <OrbitLane>
+        <LaneType>DeadZone</LaneType>
+      </OrbitLane>
+      <OrbitLane>
+        <LaneType>HabitableZone</LaneType>
+        <Body>
+          <BodyType>Planet</BodyType>
+          <BodyDef>PlanetUtopia</BodyDef>
+          <IsHomeworld>true</IsHomeworld>
+          <Position>5</Position>
+        </Body>
+        <Body>
+          <BodyType>Planet</BodyType>
+          <BodyDef>PlanetYanaPrime</BodyDef>
+        </Body>        
+      </OrbitLane>
+      <OrbitLane>
+        <LaneType>NoRandom</LaneType>		
+		<Body>
+          <BodyType>Planet</BodyType>
+          <BodyDef>PlanetYanaZata</BodyDef>
+        </Body>	
+        <Body>
+          <BodyType>Asteroid</BodyType>
+          <BodyDef>NormalAsteroid</BodyDef>
+          <Position>15</Position>
+        </Body>
+        <Body>
+          <BodyType>Asteroid</BodyType>
+          <BodyDef>NormalAsteroid</BodyDef>
+        </Body>
+      </OrbitLane>
+    </StarSystem>
+	
+	 <!-- Sontaran system -->
+ 
+    <StarSystem>
+      <InternalName>SontaranSystem</InternalName>
+      <DisplayName>SontaranSystem_Name</DisplayName>
+      <Description>SontaranSystem_Dec</Description>
+      <OrbitLane>
+        <LaneType>Star</LaneType>
+        <Body>
+          <BodyType>UnaryStar</BodyType>
+          <BodyDef>SontaranStar</BodyDef>
+        </Body>
+      </OrbitLane>
+      <OrbitLane>
+        <LaneType>NoRandom</LaneType>
+        <Body>
+          <BodyType>Planet</BodyType>
+          <BodyDef>PlanetSontar1</BodyDef>
+        </Body>
+      </OrbitLane>
+      <OrbitLane>
+        <LaneType>HabitableZone</LaneType>
+        <Body>
+          <BodyType>Planet</BodyType>
+          <BodyDef>PlanetSontar</BodyDef>
+          <IsHomeworld>true</IsHomeworld>
+          <Position>8</Position>
+        </Body>
+        <Body>
+          <BodyType>Planet</BodyType>
+          <BodyDef>PlanetSontar3</BodyDef>
+        </Body>
+        <Body>
+          <BodyType>Planet</BodyType>
+          <BodyDef>PlanetSontar4</BodyDef>
+        </Body>
+      </OrbitLane>
+      <OrbitLane>
+        <LaneType>NoRandom</LaneType>
+        <Body>
+          <BodyType>Asteroid</BodyType>
+          <BodyDef>NormalAsteroid</BodyDef>
+          <Position>14</Position>
+        </Body>
+        <Body>
+          <BodyType>Asteroid</BodyType>
+          <BodyDef>NormalAsteroid</BodyDef>
+          <Position>4</Position>
+        </Body>
+      </OrbitLane>
+    </StarSystem>
+	
+ </StarSystemGroup>
+ 
+</StarSystemList>

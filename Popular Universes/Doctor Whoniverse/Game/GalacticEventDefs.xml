@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<GameEventList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Schema/GameEventDefs.xsd">
+<!-- Modified by Mohobie -->
+
+	<GameEvent>
+		<InternalName>TardisEvent</InternalName>
+		<DisplayName>TardisEvent_Name</DisplayName>
+		<Description>TardisEvent_Dec</Description>
+		<ArtDefine>TardisEventPic1.png</ArtDefine>
+		<Type>GalacticEvent</Type>
+		<Weight>50</Weight>
+			<Trigger>
+			<OnEvent>OnEventChoice</OnEvent>
+			<Target>
+				<TargetType>Faction</TargetType>
+			</Target>
+			<Lifetime>Target</Lifetime>
+			<RandomDurationMin>10</RandomDurationMin>
+            <RandomDurationMax>15</RandomDurationMax>
+			<Modifier>
+				<EffectType>Diplomacy</EffectType>
+				<Scope>Global</Scope>
+			<Target>
+				<TargetType>Faction</TargetType>
+			</Target>
+				<BonusType>Flat</BonusType>
+				<Value>1</Value>
+			</Modifier>
+      </Trigger>
+	</GameEvent>
+	
+	<GameEvent>
+		<InternalName>DoctorsWarningEvent</InternalName>
+		<DisplayName>DoctorsWarningEvent_Name</DisplayName>
+		<Description>DoctorsWarningEvent_Dec</Description>
+		<ArtDefine>DoctorsWarningEventPic1.png</ArtDefine>
+		<Type>GalacticEvent</Type>
+		<Weight>50</Weight>
+			<Trigger>
+			<OnEvent>OnEventChoice</OnEvent>
+			<Target>
+				<TargetType>Faction</TargetType>
+			</Target>
+			<Lifetime>Target</Lifetime>
+			<RandomDurationMin>5</RandomDurationMin>
+            <RandomDurationMax>15</RandomDurationMax>
+			<Modifier>
+				<EffectType>GoodsAndServices</EffectType>
+				<Scope>Global</Scope>
+			<Target>
+				<TargetType>Colony</TargetType>
+			</Target>
+				<BonusType>Multiplier</BonusType>
+				<Value>-0.2</Value>
+			</Modifier>
+      </Trigger>
+	</GameEvent>
+	
+	<GameEvent>
+		<InternalName>TardisCoreEvent</InternalName>
+		<DisplayName>TardisCoreEvent_Name</DisplayName>
+		<Description>TardisCoreEvent_Dec</Description>
+		<ArtDefine>TardisCoreEventPic1.png</ArtDefine>
+		<Type>GalacticEvent</Type>
+		<Weight>50</Weight>
+			<Trigger>
+			<OnEvent>OnEventChoice</OnEvent>
+			<Target>
+				<TargetType>Faction</TargetType>
+			</Target>
+			<Lifetime>Target</Lifetime>
+			<RandomDurationMin>5</RandomDurationMin>
+            <RandomDurationMax>15</RandomDurationMax>
+			<Modifier>
+				<EffectType>Research</EffectType>
+				<Scope>Global</Scope>
+			<Target>
+				<TargetType>Colony</TargetType>
+			</Target>
+				<BonusType>Multiplier</BonusType>
+				<Value>0.25</Value>
+			</Modifier>
+      </Trigger>
+	</GameEvent>
+	
+	<GameEvent>
+		<InternalName>DoctorWho?Event</InternalName>
+		<DisplayName>DoctorWho?Event_Name</DisplayName>
+		<Description>DoctorWho?Event_Dec</Description>
+		<ArtDefine>DoctorWhoQuestionEventPic1.png</ArtDefine>
+		<Type>GalacticEvent</Type>
+		<Weight>50</Weight>
+			<Trigger>
+			<OnEvent>OnEventChoice</OnEvent>
+			<Target>
+				<TargetType>Faction</TargetType>
+			</Target>
+			<Lifetime>Target</Lifetime>
+			<RandomDurationMin>5</RandomDurationMin>
+            <RandomDurationMax>15</RandomDurationMax>
+			<Modifier>
+				<EffectType>Diplomacy</EffectType>
+				<Scope>Global</Scope>
+			<Target>
+				<TargetType>Faction</TargetType>
+			</Target>
+				<BonusType>Flat</BonusType>
+				<Value>-1</Value>
+			</Modifier>
+      </Trigger>
+	</GameEvent>
+ 
+ <!-- Modified to decrease sensors -->
+	<GameEvent>
+		<InternalName>WhoSlowdownEvent</InternalName>
+		<DisplayName>WhoSlowdownEvent_Name</DisplayName>
+		<Description>WhoSlowdownEvent_Dec</Description>
+		<ArtDefine>WhoSlowdownEventPic1.png</ArtDefine>
+		<Type>GalacticEvent</Type>
+		<Weight>50</Weight>
+			<Trigger>
+			<OnEvent>OnEventChoice</OnEvent>
+			<Target>
+				<TargetType>Faction</TargetType>
+			</Target>
+			<Lifetime>Target</Lifetime>
+			<RandomDurationMin>5</RandomDurationMin>
+            <RandomDurationMax>10</RandomDurationMax>
+			<Modifier>
+				<EffectType>SensorRange</EffectType>
+				<Scope>Global</Scope>
+			<Target>
+				<TargetType>Ship</TargetType>
+			</Target>
+				<BonusType>Multiplier</BonusType>
+				<Value>-0.75</Value>
+			</Modifier>
+      </Trigger>
+	</GameEvent>
+	
+	<GameEvent>
+		<InternalName>WhoPotentialEvent</InternalName>
+		<DisplayName>WhoPotentialEvent_Name</DisplayName>
+		<Description>WhoPotentialEvent_Dec</Description>
+		<ArtDefine>WhoPotentialEventPic1.png</ArtDefine>
+		<Type>GalacticEvent</Type>
+		<Weight>50</Weight>
+			<Trigger>
+			<OnEvent>OnEventChoice</OnEvent>
+			<Target>
+				<TargetType>Faction</TargetType>
+			</Target>
+			<Lifetime>Target</Lifetime>
+			<RandomDurationMin>5</RandomDurationMin>
+            <RandomDurationMax>20</RandomDurationMax>
+			<Modifier>
+				<EffectType>AdjacencyOnlyLevel</EffectType>
+				<Scope>Global</Scope>
+			<Target>
+				<TargetType>Improvement</TargetType>
+			</Target>
+				<BonusType>Flat</BonusType>
+				<Value>1</Value>
+			</Modifier>
+      </Trigger>
+	</GameEvent>
+	
+	<!--Modified By Wulff420(5/24/2015,4:20 AM, 7:28 AM, 7:38 AM, 7:41 AM 4:25 PM)-->
+	<!--"Would You like a Jelly Baby?" Event-->
+	
+	<GameEvent>
+		<InternalName>JellyBabyEvent</InternalName>
+		<DisplayName>JellyBabyEvent_Name</DisplayName>
+		<Description>JellyBabyEvent_Dec</Description>
+		<ArtDefine>JellyBabyEventPic1.png</ArtDefine>
+		<Type>GalacticEvent</Type>
+		<Weight>50</Weight>
+			<Trigger>
+			<OnEvent>OnEventChoice</OnEvent>
+			<Target>
+				<TargetType>Faction</TargetType>
+			</Target>
+			<Lifetime>Target</Lifetime>
+			<RandomDurationMin>5</RandomDurationMin>
+            <RandomDurationMax>10</RandomDurationMax>
+			<Modifier>
+				<EffectType>Growth</EffectType>
+				<Scope>Global</Scope>
+			<Target>
+				<TargetType>Colony</TargetType>
+			</Target>
+				<BonusType>Multiplier</BonusType>
+                <Value>0.25</Value>
+            </Modifier>
+      </Trigger>
+	</GameEvent>
+	
+	<!--Modified By Wulff420(5/25/2015, 1:41 AM)-->
+	<!--"Captain Jack's Baby Boom!" Event-->
+	
+	<GameEvent>
+		<InternalName>BabyBoomEvent</InternalName>
+		<DisplayName>BabyBoomEvent_Name</DisplayName>
+		<Description>BabyBoomEvent_Dec</Description>
+		<ArtDefine>BabyBoomEventPic1.png</ArtDefine>
+		<Type>GalacticEvent</Type>
+		<Weight>50</Weight>
+			<Trigger>
+			<OnEvent>OnEventChoice</OnEvent>
+			<Target>
+				<TargetType>Faction</TargetType>
+			</Target>
+			<Lifetime>Target</Lifetime>
+			<RandomDurationMin>5</RandomDurationMin>
+            <RandomDurationMax>10</RandomDurationMax>
+			<Modifier>
+				<EffectType>Growth</EffectType>
+				<Scope>Global</Scope>
+			<Target>
+				<TargetType>Colony</TargetType>
+			</Target>
+				<BonusType>Multiplier</BonusType>
+                <Value>0.5</Value>
+            </Modifier>
+      </Trigger>
+	</GameEvent>
+	
+<!--Modified By Mohobie-->
+<!--Allonsy Event-->
+	
+	<GameEvent>
+		<InternalName>AllonsyEvent</InternalName>
+		<DisplayName>AllonsyEvent_Name</DisplayName>
+		<Description>AllonsyEvent_Dec</Description>
+		<ArtDefine>AllonsyEventPic1.png</ArtDefine>
+		<Type>GalacticEvent</Type>
+		<Weight>50</Weight>
+			<Trigger>
+			<OnEvent>OnEventChoice</OnEvent>
+			<Target>
+				<TargetType>Faction</TargetType>
+			</Target>
+			<Lifetime>Target</Lifetime>
+			<RandomDurationMin>5</RandomDurationMin>
+            <RandomDurationMax>15</RandomDurationMax>
+			<Modifier>
+				<EffectType>MovesCap</EffectType>
+				<Scope>Global</Scope>
+			<Target>
+				<TargetType>Ship</TargetType>
+			</Target>
+				<BonusType>Multiplier</BonusType>
+				<Value>0.25</Value>
+			</Modifier>
+      </Trigger>
+	</GameEvent>
+	
+	<!--Modified By Wulff420(5/25/2015, 7:41 PM)-->
+	<!--"No Hanky Panky In My Tardis" Event-->
+	
+	<GameEvent>
+		<InternalName>NoHankyPankyEvent</InternalName>
+		<DisplayName>NoHankyPankyEvent_Name</DisplayName>
+		<Description>NoHankyPankyEvent_Dec</Description>
+		<ArtDefine>NoHankyPankyEventPic1.png</ArtDefine>
+		<Type>GalacticEvent</Type>
+		<Weight>50</Weight>
+			<Trigger>
+			<OnEvent>OnEventChoice</OnEvent>
+			<Target>
+				<TargetType>Faction</TargetType>
+			</Target>
+			<Lifetime>Target</Lifetime>
+			<RandomDurationMin>5</RandomDurationMin>
+            <RandomDurationMax>10</RandomDurationMax>
+			<Modifier>
+				<EffectType>Growth</EffectType>
+				<Scope>Global</Scope>
+			<Target>
+				<TargetType>Colony</TargetType>
+			</Target>
+				<BonusType>Multiplier</BonusType>
+                <Value>-0.75</Value>
+            </Modifier>
+      </Trigger>
+	</GameEvent>
+	
+<!--Modified by Wulff420(5/25/2015, 8:10 PM)-->
+<!--"Raging River" Event-->
+
+	<GameEvent>
+		<InternalName>RagingRiverEvent</InternalName>
+		<DisplayName>RagingRiverEvent_Name</DisplayName>
+		<Description>RagingRiverEvent_Dec</Description>
+		<ArtDefine>RagingRiverEventPic1.png</ArtDefine>
+		<Type>GalacticEvent</Type>
+		<Weight>50</Weight>
+			<Trigger>
+			<OnEvent>OnEventChoice</OnEvent>
+			<Target>
+				<TargetType>Faction</TargetType>
+			</Target>
+			<Lifetime>Target</Lifetime>
+			<RandomDurationMin>5</RandomDurationMin>
+            <RandomDurationMax>10</RandomDurationMax>
+			<Modifier>
+				<EffectType>GoodsAndServices</EffectType>
+				<Scope>Global</Scope>
+			<Target>
+				<TargetType>Colony</TargetType>
+			</Target>
+				<BonusType>Multiplier</BonusType>
+				<Value>-0.25</Value>
+			</Modifier>
+      </Trigger>
+	</GameEvent>
+	
+<!--Modified by Wulff420(5/26/2015, 7:10 PM)-->
+<!--"Dorium Maldovar's Visit" Event-->
+
+ <GameEvent>
+     <InternalName>DoriumMaldovarEvent</InternalName>
+     <DisplayName>DoriumMaldovarEvent_Name</DisplayName>
+     <Description>DoriumMaldovarEvent_Dec</Description>
+     <ArtDefine>DoriumMaldovarEventPic1.png</ArtDefine>
+     <Type>GalacticEvent</Type>
+     <Weight>50</Weight>
+         <Trigger>
+         <OnEvent>OnEventChoice</OnEvent>
+         <Target>
+             <TargetType>Faction</TargetType>
+        </Target>
+        <Lifetime>Target</Lifetime>
+        <RandomDurationMin>20</RandomDurationMin>
+        <RandomDurationMax>25</RandomDurationMax>
+        <Modifier>
+            <EffectType>ColonyGrossIncome</EffectType>
+            <Scope>Global</Scope>
+        <Target>
+            <TargetType>Colony</TargetType>
+        </Target>
+            <BonusType>Multiplier</BonusType>
+            <Value>0.2</Value>
+        </Modifier>
+		<Modifier>
+            <EffectType>TradeRouteIncome</EffectType>
+            <Scope>Global</Scope>
+        <Target>
+          <TargetType>Colony</TargetType>
+        </Target>
+          <BonusType>Multiplier</BonusType>
+          <Value>0.2</Value>
+        </Modifier>
+		<Modifier>
+          <EffectType>Tourism</EffectType>
+          <Scope>Global</Scope>
+        <Target>
+          <TargetType>Colony</TargetType>
+        </Target>
+          <BonusType>Multiplier</BonusType>
+          <Value>0.2</Value>
+        </Modifier>
+		<Modifier>
+			<EffectType>GoodsAndServices</EffectType>
+			<Scope>Global</Scope>
+			<Target>
+			  <TargetType>Colony</TargetType>
+			</Target>
+				<BonusType>Multiplier</BonusType>
+				<Value>-0.2</Value>
+			</Modifier>
+		<Modifier>
+			<EffectType>Growth</EffectType>
+			<Scope>Global</Scope>
+			<Target>
+				<TargetType>Colony</TargetType>
+			</Target>
+			   <BonusType>Multiplier</BonusType>
+               <Value>-0.2</Value>
+            </Modifier>	
+      </Trigger>
+  </GameEvent>
+	
+</GameEventList>

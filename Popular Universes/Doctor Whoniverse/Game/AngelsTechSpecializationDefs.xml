@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<TechSpecializationList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Schema/TechSpecializationDefs.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- AngelsTechSpecializationDefs.xml -->
+ 
+  <TechSpecialization>
+    <InternalName>AngelsIndustrialSpecialization</InternalName>
+    <DisplayName>AngelsIndustrialSpecialization_Name</DisplayName>
+    <ShortDescription>AngelsIndustrialSpecialization_ShortDec</ShortDescription>
+    <Description>AngelsIndustrialSpecialization_Dec</Description>
+    <ColorDef>TechYellow</ColorDef>
+    <Icon>GC3_Production_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsConstructionOptimization</InternalName>
+    <DisplayName>AngelsConstructionOptimization_Name</DisplayName>
+    <ShortDescription>AngelsConstructionOptimization_ShortDec</ShortDescription>
+    <Description>AngelsConstructionOptimization_Dec</Description>
+    <ColorDef>TechYellow</ColorDef>
+    <Icon>GC3_Production_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsManufacturingFocus</InternalName>
+    <DisplayName>AngelsManufacturingFocus_Name</DisplayName>
+    <ShortDescription>AngelsManufacturingFocus_ShortDec</ShortDescription>
+    <Description>AngelsManufacturingFocus_Dec</Description>
+    <ColorDef>TechYellow</ColorDef>
+    <Icon>GC3_Production_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsIndustrialMastery</InternalName>
+    <DisplayName>AngelsIndustrialMastery_Name</DisplayName>
+    <ShortDescription>AngelsIndustrialMastery_ShortDec</ShortDescription>
+    <Description>AngelsIndustrialMastery_Dec</Description>
+    <ColorDef>TechYellow</ColorDef>
+    <Icon>GC3_Production_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsResearchOptimization</InternalName>
+    <DisplayName>AngelsResearchOptimization_Name</DisplayName>
+    <ShortDescription>AngelsResearchOptimization_ShortDec</ShortDescription>
+    <Description>AngelsResearchOptimization_Dec</Description>
+    <ColorDef>TechYellow</ColorDef>
+    <Icon>GC3_Production_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsTechnologicalFocus</InternalName>
+    <DisplayName>AngelsTechnologicalFocus_Name</DisplayName>
+    <ShortDescription>AngelsTechnologicalFocus_ShortDec</ShortDescription>
+    <Description>AngelsTechnologicalFocus_Dec</Description>
+    <ColorDef>TechYellow</ColorDef>
+    <Icon>GC3_Production_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsPlanetarySpecialization</InternalName>
+    <DisplayName>AngelsPlanetarySpecialization_Name</DisplayName>
+    <ShortDescription>AngelsPlanetarySpecialization_ShortDec</ShortDescription>
+    <Description>AngelsPlanetarySpecialization_Dec</Description>
+    <ColorDef>TechLemon</ColorDef>
+    <Icon>GC3_Support_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsAgriculturalOptimization</InternalName>
+    <DisplayName>AngelsAgriculturalOptimization_Name</DisplayName>
+    <ShortDescription>AngelsAgriculturalOptimization_ShortDec</ShortDescription>
+    <Description>AngelsAgriculturalOptimization_Dec</Description>
+    <ColorDef>TechLemon</ColorDef>
+    <Icon>GC3_Support_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsFarmingFocus</InternalName>
+    <DisplayName>AngelsFarmingFocus_Name</DisplayName>
+    <ShortDescription>AngelsFarmingFocus_ShortDec</ShortDescription>
+    <Description>AngelsFarmingFocus_Dec</Description>
+    <ColorDef>TechLemon</ColorDef>
+    <Icon>GC3_Support_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsAgriculturalMastery</InternalName>
+    <DisplayName>AngelsAgriculturalMastery_Name</DisplayName>
+    <ShortDescription>AngelsAgriculturalMastery_ShortDec</ShortDescription>
+    <Description>AngelsAgriculturalMastery_Dec</Description>
+    <ColorDef>TechLemon</ColorDef>
+    <Icon>GC3_Support_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsEnvironmentOptimization</InternalName>
+    <DisplayName>AngelsEnvironmentOptimization_Name</DisplayName>
+    <ShortDescription>AngelsEnvironmentOptimization_ShortDec</ShortDescription>
+    <Description>AngelsEnvironmentOptimization_Dec</Description>
+    <ColorDef>TechLemon</ColorDef>
+    <Icon>GC3_Support_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsColonizationFocus</InternalName>
+    <DisplayName>AngelsColonizationFocus_Name</DisplayName>
+    <ShortDescription>AngelsColonizationFocus_ShortDec</ShortDescription>
+    <Description>AngelsColonizationFocus_Dec</Description>
+    <ColorDef>TechLemon</ColorDef>
+    <Icon>GC3_Colonization_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsBiospherePerfection</InternalName>
+    <DisplayName>AngelsBiospherePerfection_Name</DisplayName>
+    <ShortDescription>AngelsBiospherePerfection_ShortDec</ShortDescription>
+    <Description>AngelsBiospherePerfection_Dec</Description>
+    <ColorDef>TechLemon</ColorDef>
+    <Icon>GC3_Colonization_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsInterstellarSpecialization</InternalName>
+    <DisplayName>AngelsInterstellarSpecialization_Name</DisplayName>
+    <ShortDescription>AngelsInterstellarSpecialization_ShortDec</ShortDescription>
+    <Description>AngelsInterstellarSpecialization_Dec</Description>
+    <ColorDef>TechPurple</ColorDef>
+    <Icon>GC3_Intersteller_Craft_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsIonOptimization</InternalName>
+    <DisplayName>AngelsIonOptimization_Name</DisplayName>
+    <ShortDescription>AngelsIonOptimization_ShortDec</ShortDescription>
+    <Description>AngelsIonOptimization_Dec</Description>
+    <ColorDef>TechBlue</ColorDef>
+    <Icon>GC3_Drives_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsWarpFieldFocus</InternalName>
+    <DisplayName>AngelsWarpFieldFocus_Name</DisplayName>
+    <ShortDescription>AngelsWarpFieldFocus_ShortDec</ShortDescription>
+    <Description>AngelsWarpFieldFocus_Dec</Description>
+    <ColorDef>TechBlue</ColorDef>
+    <Icon>GC3_Drives_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsHyperwarpMastery</InternalName>
+    <DisplayName>AngelsHyperwarpMastery_Name</DisplayName>
+    <ShortDescription>AngelsHyperwarpMastery_ShortDec</ShortDescription>
+    <Description>AngelsHyperwarpMastery_Dec</Description>
+    <ColorDef>TechBlue</ColorDef>
+    <Icon>GC3_Drives_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsSensorOptimization</InternalName>
+    <DisplayName>AngelsSensorOptimization_Name</DisplayName>
+    <ShortDescription>AngelsSensorOptimization_ShortDec</ShortDescription>
+    <Description>AngelsSensorOptimization_Dec</Description>
+    <ColorDef>TechCyan</ColorDef>
+    <Icon>GC3_Sensors_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsEnergyFieldFocus</InternalName>
+    <DisplayName>AngelsEnergyFieldFocus_Name</DisplayName>
+    <ShortDescription>AngelsEnergyFieldFocus_ShortDec</ShortDescription>
+    <Description>AngelsEnergyFieldFocus_Dec</Description>
+    <ColorDef>TechCyan</ColorDef>
+    <Icon>GC3_Sensors_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsSensorMastery</InternalName>
+    <DisplayName>AngelsSensorMastery_Name</DisplayName>
+    <ShortDescription>AngelsSensorMastery_ShortDec</ShortDescription>
+    <Description>AngelsSensorMastery_Dec</Description>
+    <ColorDef>TechCyan</ColorDef>
+    <Icon>GC3_Sensors_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsPrecursorRelicFocus</InternalName>
+    <DisplayName>AngelsPrecursorRelicFocus_Name</DisplayName>
+    <ShortDescription>AngelsPrecursorRelicFocus_ShortDec</ShortDescription>
+    <Description>AngelsPrecursorRelicFocus_Dec</Description>
+    <ColorDef>TechPurple</ColorDef>
+    <Icon>GC3_Intersteller_Craft_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsLifeSupportOptimization</InternalName>
+    <DisplayName>AngelsLifeSupportOptimization_Name</DisplayName>
+    <ShortDescription>AngelsLifeSupportOptimization_ShortDec</ShortDescription>
+    <Description>AngelsLifeSupportOptimization_Dec</Description>
+    <ColorDef>TechPurple</ColorDef>
+    <Icon>GC3_Intersteller_Craft_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsSupportFieldFocus</InternalName>
+    <DisplayName>AngelsSupportFieldFocus_Name</DisplayName>
+    <ShortDescription>AngelsSupportFieldFocus_ShortDec</ShortDescription>
+    <Description>AngelsSupportFieldFocus_Dec</Description>
+    <ColorDef>TechPurple</ColorDef>
+    <Icon>GC3_Intersteller_Craft_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsLifeSupportMastery</InternalName>
+    <DisplayName>AngelsLifeSupportMastery_Name</DisplayName>
+    <ShortDescription>AngelsLifeSupportMastery_ShortDec</ShortDescription>
+    <Description>AngelsLifeSupportMastery_Dec</Description>
+    <ColorDef>TechPurple</ColorDef>
+    <Icon>GC3_Intersteller_Craft_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsOrbitalSpecialization</InternalName>
+    <DisplayName>AngelsOrbitalSpecialization_Name</DisplayName>
+    <ShortDescription>AngelsOrbitalSpecialization_ShortDec</ShortDescription>
+    <Description>AngelsOrbitalSpecialization_Dec</Description>
+    <ColorDef>TechPurple</ColorDef>
+    <Icon>GC3_Intersteller_Craft_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsZeroGravityOptimization</InternalName>
+    <DisplayName>AngelsZeroGravityOptimization_Name</DisplayName>
+    <ShortDescription>AngelsZeroGravityOptimization_ShortDec</ShortDescription>
+    <Description>AngelsZeroGravityOptimization_Dec</Description>
+    <ColorDef>TechPurple</ColorDef>
+    <Icon>GC3_Intersteller_Craft_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsOrbitalConstructionFocus</InternalName>
+    <DisplayName>AngelsOrbitalConstructionFocus_Name</DisplayName>
+    <ShortDescription>AngelsOrbitalConstructionFocus_ShortDec</ShortDescription>
+    <Description>AngelsOrbitalConstructionFocus_Dec</Description>
+    <ColorDef>TechPurple</ColorDef>
+    <Icon>GC3_Intersteller_Craft_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsHullMastery</InternalName>
+    <DisplayName>AngelsHullMastery_Name</DisplayName>
+    <ShortDescription>AngelsHullMastery_ShortDec</ShortDescription>
+    <Description>AngelsHullMastery_Dec</Description>
+    <ColorDef>TechPurple</ColorDef>
+    <Icon>field</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsCarrierFocus</InternalName>
+    <DisplayName>AngelsCarrierFocus_Name</DisplayName>
+    <ShortDescription>AngelsCarrierFocus_ShortDec</ShortDescription>
+    <Description>AngelsCarrierFocus_Dec</Description>
+    <ColorDef>TechPurple</ColorDef>
+    <Icon>GC3_Intersteller_Craft_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsLogisticalOptimization</InternalName>
+    <DisplayName>AngelsLogisticalOptimization_Name</DisplayName>
+    <ShortDescription>AngelsLogisticalOptimization_ShortDec</ShortDescription>
+    <Description>AngelsLogisticalOptimization_Dec</Description>
+    <ColorDef>TechPurple</ColorDef>
+    <Icon>GC3_Intersteller_Craft_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsWeaponsSpecialization</InternalName>
+    <DisplayName>AngelsWeaponsSpecialization_Name</DisplayName>
+    <ShortDescription>AngelsWeaponsSpecialization_ShortDec</ShortDescription>
+    <Description>AngelsWeaponsSpecialization_Dec</Description>
+    <ColorDef>TechBlue</ColorDef>
+    <Icon>GC3_Beam_Weapons_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsBeamWeaponOptimization</InternalName>
+    <DisplayName>AngelsBeamWeaponOptimization_Name</DisplayName>
+    <ShortDescription>AngelsBeamWeaponOptimization_ShortDec</ShortDescription>
+    <Description>AngelsBeamWeaponOptimization_Dec</Description>
+    <ColorDef>TechBlue</ColorDef>
+    <Icon>GC3_Beam_Weapons_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsHighEnergyFocus</InternalName>
+    <DisplayName>AngelsHighEnergyFocus_Name</DisplayName>
+    <ShortDescription>AngelsHighEnergyFocus_ShortDec</ShortDescription>
+    <Description>AngelsHighEnergyFocus_Dec</Description>
+    <ColorDef>TechBlue</ColorDef>
+    <Icon>GC3_Beam_Weapons_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsBeamWeaponMastery</InternalName>
+    <DisplayName>AngelsBeamWeaponMastery_Name</DisplayName>
+    <ShortDescription>AngelsBeamWeaponMastery_ShortDec</ShortDescription>
+    <Description>AngelsBeamWeaponMastery_Dec</Description>
+    <ColorDef>TechBlue</ColorDef>
+    <Icon>GC3_Beam_Weapons_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsMissileOptimization</InternalName>
+    <DisplayName>AngelsMissileOptimization_Name</DisplayName>
+    <ShortDescription>AngelsMissileOptimization_ShortDec</ShortDescription>
+    <Description>AngelsMissileOptimization_Dec</Description>
+    <ColorDef>TechYellow</ColorDef>
+    <Icon>GC3_Missile_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsWarheadFocus</InternalName>
+    <DisplayName>AngelsWarheadFocus_Name</DisplayName>
+    <ShortDescription>AngelsWarheadFocus_ShortDec</ShortDescription>
+    <Description>AngelsWarheadFocus_Dec</Description>
+    <ColorDef>TechYellow</ColorDef>
+    <Icon>GC3_Missile_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsPayloadMastery</InternalName>
+    <DisplayName>AngelsPayloadMastery_Name</DisplayName>
+    <ShortDescription>AngelsPayloadMastery_ShortDec</ShortDescription>
+    <Description>AngelsPayloadMastery_Dec</Description>
+    <ColorDef>TechYellow</ColorDef>
+    <Icon>GC3_Missile_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsKineticOptimization</InternalName>
+    <DisplayName>AngelsKineticOptimization_Name</DisplayName>
+    <ShortDescription>AngelsKineticOptimization_ShortDec</ShortDescription>
+    <Description>AngelsKineticOptimization_Dec</Description>
+    <ColorDef>TechRed</ColorDef>
+    <Icon>GC3_Kinetic_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsKineticAccelerationFocus</InternalName>
+    <DisplayName>AngelsKineticAccelerationFocus_Name</DisplayName>
+    <ShortDescription>AngelsKineticAccelerationFocus_ShortDec</ShortDescription>
+    <Description>AngelsKineticAccelerationFocus_Dec</Description>
+    <ColorDef>TechRed</ColorDef>
+    <Icon>GC3_Kinetic_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsKineticMastery</InternalName>
+    <DisplayName>AngelsKineticMastery_Name</DisplayName>
+    <ShortDescription>AngelsKineticMastery_ShortDec</ShortDescription>
+    <Description>AngelsKineticMastery_Dec</Description>
+    <ColorDef>TechRed</ColorDef>
+    <Icon>GC3_Kinetic_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsMilitarySpecialization</InternalName>
+    <DisplayName>AngelsMilitarySpecialization_Name</DisplayName>
+    <ShortDescription>AngelsMilitarySpecialization_ShortDec</ShortDescription>
+    <Description>AngelsMilitarySpecialization_Dec</Description>
+    <ColorDef>TechRed</ColorDef>
+    <Icon>GC3_Invasion_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsInvasionOptimization</InternalName>
+    <DisplayName>AngelsInvasionOptimization_Name</DisplayName>
+    <ShortDescription>AngelsInvasionOptimization_ShortDec</ShortDescription>
+    <Description>AngelsInvasionOptimization_Dec</Description>
+    <ColorDef>TechRed</ColorDef>
+    <Icon>GC3_Invasion_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsGravitationalFocus</InternalName>
+    <DisplayName>AngelsGravitationalFocus_Name</DisplayName>
+    <ShortDescription>AngelsGravitationalFocus_ShortDec</ShortDescription>
+    <Description>AngelsGravitationalFocus_Dec</Description>
+    <ColorDef>TechYellow</ColorDef>
+    <Icon>GC3_Marines_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsDefensiveFocus</InternalName>
+    <DisplayName>AngelsDefensiveFocus_Name</DisplayName>
+    <ShortDescription>AngelsDefensiveFocus_ShortDec</ShortDescription>
+    <Description>AngelsDefensiveFocus_Dec</Description>
+    <ColorDef>TechRed</ColorDef>
+    <Icon>GC3_Invasion_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsJihadFocus</InternalName>
+    <DisplayName>AngelsJihadFocus_Name</DisplayName>
+    <ShortDescription>AngelsJihadFocus_ShortDec</ShortDescription>
+    <Description>AngelsJihadFocus_Dec</Description>
+    <ColorDef>TechGold</ColorDef>
+    <Icon>GC3_Shields_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsDevineMastery</InternalName>
+    <DisplayName>AngelsDevineMastery_Name</DisplayName>
+    <ShortDescription>AngelsDevineMastery_ShortDec</ShortDescription>
+    <Description>AngelsDevineMastery_Dec</Description>
+    <ColorDef>TechGold</ColorDef>
+    <Icon>GC3_Shields_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsDefensiveSpecialization</InternalName>
+    <DisplayName>AngelsDefensiveSpecialization_Name</DisplayName>
+    <ShortDescription>AngelsDefensiveSpecialization_ShortDec</ShortDescription>
+    <Description>AngelsDefensiveSpecialization_Dec</Description>
+    <ColorDef>TechBlue</ColorDef>
+    <Icon>GC3_Shields_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsShieldOptimization</InternalName>
+    <DisplayName>AngelsShieldOptimization_Name</DisplayName>
+    <ShortDescription>AngelsShieldOptimization_ShortDec</ShortDescription>
+    <Description>AngelsShieldOptimization_Dec</Description>
+    <ColorDef>TechBlue</ColorDef>
+    <Icon>GC3_Shields_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsBarrierSystemFocus</InternalName>
+    <DisplayName>AngelsBarrierSystemFocus_Name</DisplayName>
+    <ShortDescription>AngelsBarrierSystemFocus_ShortDec</ShortDescription>
+    <Description>AngelsBarrierSystemFocus_Dec</Description>
+    <ColorDef>TechBlue</ColorDef>
+    <Icon>GC3_Shields_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsShieldMastery</InternalName>
+    <DisplayName>AngelsShieldMastery_Name</DisplayName>
+    <ShortDescription>AngelsShieldMastery_ShortDec</ShortDescription>
+    <Description>AngelsShieldMastery_Dec</Description>
+    <ColorDef>TechBlue</ColorDef>
+    <Icon>GC3_Shields_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsPointDefenseOptimization</InternalName>
+    <DisplayName>AngelsPointDefenseOptimization_Name</DisplayName>
+    <ShortDescription>AngelsPointDefenseOptimization_ShortDec</ShortDescription>
+    <Description>AngelsPointDefenseOptimization_Dec</Description>
+    <ColorDef>TechYellow</ColorDef>
+    <Icon>GC3_Point_Defense_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsCounterMeasureFocus</InternalName>
+    <DisplayName>AngelsCounterMeasureFocus_Name</DisplayName>
+    <ShortDescription>AngelsCounterMeasureFocus_ShortDec</ShortDescription>
+    <Description>AngelsCounterMeasureFocus_Dec</Description>
+    <ColorDef>TechYellow</ColorDef>
+    <Icon>GC3_Point_Defense_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsDroneSystemMastery</InternalName>
+    <DisplayName>AngelsDroneSystemMastery_Name</DisplayName>
+    <ShortDescription>AngelsDroneSystemMastery_ShortDec</ShortDescription>
+    <Description>AngelsDroneSystemMastery_Dec</Description>
+    <ColorDef>TechYellow</ColorDef>
+    <Icon>GC3_Point_Defense_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsArmorOptimization</InternalName>
+    <DisplayName>AngelsArmorOptimization_Name</DisplayName>
+    <ShortDescription>AngelsArmorOptimization_ShortDec</ShortDescription>
+    <Description>AngelsArmorOptimization_Dec</Description>
+    <ColorDef>TechRed</ColorDef>
+    <Icon>GC3_Armor_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsArmorFocus</InternalName>
+    <DisplayName>AngelsArmorFocus_Name</DisplayName>
+    <ShortDescription>AngelsArmorFocus_ShortDec</ShortDescription>
+    <Description>AngelsArmorFocus_Dec</Description>
+    <ColorDef>TechRed</ColorDef>
+    <Icon>GC3_Armor_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsArmorMastery</InternalName>
+    <DisplayName>AngelsArmorMastery_Name</DisplayName>
+    <ShortDescription>AngelsArmorMastery_ShortDec</ShortDescription>
+    <Description>AngelsArmorMastery_Dec</Description>
+    <ColorDef>TechRed</ColorDef>
+    <Icon>GC3_Armor_Tech_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsDiplomaticSpecialization</InternalName>
+    <DisplayName>AngelsDiplomaticSpecialization_Name</DisplayName>
+    <ShortDescription>AngelsDiplomaticSpecialization_ShortDec</ShortDescription>
+    <Description>AngelsDiplomaticSpecialization_Dec</Description>
+    <ColorDef>TechGreen</ColorDef>
+    <Icon>GC3_Economics_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsPoliticalSpecialization</InternalName>
+    <DisplayName>AngelsPoliticalSpecialization_Name</DisplayName>
+    <ShortDescription>AngelsPoliticalSpecialization_ShortDec</ShortDescription>
+    <Description>AngelsPoliticalSpecialization_Dec</Description>
+    <ColorDef>TechGreen</ColorDef>
+    <Icon>GC3_Economics_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsPoliticalFocus</InternalName>
+    <DisplayName>AngelsPoliticalFocus_Name</DisplayName>
+    <ShortDescription>AngelsPoliticalFocus_ShortDec</ShortDescription>
+    <Description>AngelsPoliticalFocus_Dec</Description>
+    <ColorDef>TechGreen</ColorDef>
+    <Icon>GC3_Economics_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsPoliticalMastery</InternalName>
+    <DisplayName>AngelsPoliticalMastery_Name</DisplayName>
+    <ShortDescription>AngelsPoliticalMastery_ShortDec</ShortDescription>
+    <Description>AngelsPoliticalMastery_Dec</Description>
+    <ColorDef>TechGreen</ColorDef>
+    <Icon>GC3_Economics_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsDiplomaticOptimization</InternalName>
+    <DisplayName>AngelsDiplomaticOptimization_Name</DisplayName>
+    <ShortDescription>AngelsDiplomaticOptimization_ShortDec</ShortDescription>
+    <Description>AngelsDiplomaticOptimization_Dec</Description>
+    <ColorDef>TechPurple</ColorDef>
+    <Icon>GC3_Economics_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsAllianceFocus</InternalName>
+    <DisplayName>AngelsAllianceFocus_Name</DisplayName>
+    <ShortDescription>AngelsAllianceFocus_ShortDec</ShortDescription>
+    <Description>AngelsAllianceFocus_Dec</Description>
+    <ColorDef>TechPurple</ColorDef>
+    <Icon>GC3_Economics_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsThePathSpecialization</InternalName>
+    <DisplayName>AngelsThePathSpecialization_Name</DisplayName>
+    <ShortDescription>AngelsThePathSpecialization_ShortDec</ShortDescription>
+    <Description>AngelsThePathSpecialization_Dec</Description>
+    <ColorDef>TechCyan</ColorDef>
+    <Icon>GC3_Economics_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsTheCallingOptimization</InternalName>
+    <DisplayName>AngelsTheCallingOptimization_Name</DisplayName>
+    <ShortDescription>AngelsTheCallingOptimization_ShortDec</ShortDescription>
+    <Description>AngelsTheCallingOptimization_Dec</Description>
+    <ColorDef>TechCyan</ColorDef>
+    <Icon>GC3_Economics_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsTheOrderFocus</InternalName>
+    <DisplayName>AngelsTheOrderFocus_Name</DisplayName>
+    <ShortDescription>AngelsTheOrderFocus_ShortDec</ShortDescription>
+    <Description>AngelsTheOrderFocus_Dec</Description>
+    <ColorDef>TechCyan</ColorDef>
+    <Icon>GC3_Economics_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsTheWayPerfection</InternalName>
+    <DisplayName>AngelsTheWayPerfection_Name</DisplayName>
+    <ShortDescription>AngelsTheWayPerfection_ShortDec</ShortDescription>
+    <Description>AngelsTheWayPerfection_Dec</Description>
+    <ColorDef>TechCyan</ColorDef>
+    <Icon>GC3_Economics_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsCommerceSpecialization</InternalName>
+    <DisplayName>AngelsCommerceSpecialization_Name</DisplayName>
+    <ShortDescription>AngelsCommerceSpecialization_ShortDec</ShortDescription>
+    <Description>AngelsCommerceSpecialization_Dec</Description>
+    <ColorDef>TechYellow</ColorDef>
+    <Icon>GC3_Economics_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsEconomicFocus</InternalName>
+    <DisplayName>AngelsEconomicFocus_Name</DisplayName>
+    <ShortDescription>AngelsEconomicFocus_ShortDec</ShortDescription>
+    <Description>AngelsEconomicFocus_Dec</Description>
+    <ColorDef>TechGreen</ColorDef>
+    <Icon>GC3_Economics_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsTradeOptimization</InternalName>
+    <DisplayName>AngelsTradeOptimization_Name</DisplayName>
+    <ShortDescription>AngelsTradeOptimization_ShortDec</ShortDescription>
+    <Description>AngelsTradeOptimization_Dec</Description>
+    <ColorDef>TechGreen</ColorDef>
+    <Icon>GC3_Economics_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsTradeFocus</InternalName>
+    <DisplayName>AngelsTradeFocus_Name</DisplayName>
+    <ShortDescription>AngelsTradeFocus_ShortDec</ShortDescription>
+    <Description>AngelsTradeFocus_Dec</Description>
+    <ColorDef>TechYellow</ColorDef>
+    <Icon>GC3_Economics_Icon.png</Icon>
+  </TechSpecialization>
+ 
+  <TechSpecialization>
+    <InternalName>AngelsApprovalFocus</InternalName>
+    <DisplayName>AngelsApprovalFocus_Name</DisplayName>
+    <Description>AngelsApprovalFocus_Dec</Description>
+    <ColorDef>TechYellow</ColorDef>
+    <Icon>GC3_Economics_Icon.png</Icon>
+  </TechSpecialization>
+ 
+</TechSpecializationList>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Modified by Mohobie -->
+
+<!-- Event Names, Descriptions, & Options -->
+ 
+ <!--Abandoned Planet Event -->
+	<StringTable>
+		<Label>AbandonedPlanetEvent_Name</Label>
+		<String>Abandoned Planet</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>AbandonedPlanetEvent_Dec</Label>
+		<String>This planet appears to have been abandoned by its inhabitants centuries ago. While the reason why is unclear to us there have been confirmed signs that the Doctor was here.</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>AbandonedPlanetEvent_Benevolent_Bonus_Name</Label>
+		<String>Extra precautions must be taken to prevent anything from happening to our people. Additional supplies, and increased safety measures will be put in place. Investigate the ruins and see what we can learn from them.</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>AbandonedPlanetEvent_Benevolent_Bonus_Dec</Label>
+		<String>+15 Benevolent, -10% Total Income, +10% Research</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>AbandonedPlanetEvent_Neutral_Bonus_Name</Label>
+		<String>Inform our citizens and allow them to leave the planet if they want. We can load the returning transports with relics from the planet to sell.</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>AbandonedPlanetEvent_Neutral_Bonus_Dec</Label>
+		<String>+15 Pragmatic, -25% Growth, +10% Total Income</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>AbandonedPlanetEvent_Merciless_Bonus_Name</Label>
+		<String>If the Doctor has an interest in {PLANETNAME} then we have to prepare our defenses. Additional protection will be necessary despite the cost.</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>AbandonedPlanetEvent_Merciless_Bonus_Dec</Label>
+		<String>+15 Malevolent, -10% Total Income, +10% Planetary Defense</String>
+	</StringTable>
+
+<!--Exposed Core Event -->
+	<StringTable>
+		<Label>ExposedCoreEvent_Name</Label>
+		<String>Exposed Core</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>ExposedCoreEvent_Dec</Label>
+		<String>Evidence of the Doctor on this planet is apparent. We have not been able to determine what has happened here but the planet appears to have been cracked. While still stable there is a fault line that exposes the planets core.</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>ExposedCoreEvent_Benevolent_Bonus_Name</Label>
+		<String>We can use the exposed core to harness geothermal energy. Additional precautions will be taken to maintain safety. Our people are worth the added costs.</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>ExposedCoreEvent_Benevolent_Bonus_Dec</Label>
+		<String>+15 Benevolent, -10% Total Income, +10% Manufacturing</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>ExposedCoreEvent_Neutral_Bonus_Name</Label>
+		<String>The exposed core has lead to brilliant displays of gasses in the atmosphere. We can limit potential risk to the inhabitants of this planet by sectioning off unsafe areas, while using them as a tourist attraction. </String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>ExposedCoreEvent_Neutral_Bonus_Dec</Label>
+		<String>+15 Pragmatic, +25% Tourism, -1 Planetary Tile</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>ExposedCoreEvent_Merciless_Bonus_Name</Label>
+		<String>We require more ships, who cares if some are injured or killed. We have plenty of people.</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>ExposedCoreEvent_Merciless_Bonus_Dec</Label>
+		<String>+15 Malevolent, -10% Growth, +10% Manufacturing</String>
+	</StringTable>
+	
+</StringTableList>

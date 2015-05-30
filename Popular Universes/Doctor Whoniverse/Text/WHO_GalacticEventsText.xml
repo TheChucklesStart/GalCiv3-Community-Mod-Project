@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Modified by Mohobie -->
+ 
+<!-- Event Names and Descriptions -->
+ 
+	<StringTable>
+		<Label>TardisEvent_Name</Label>
+		<String>The Doctors Tardis has been spotted</String>
+	</StringTable>
+ 
+	<StringTable>
+		<Label>TardisEvent_Dec</Label>
+		<String>A mysterious figure from a forgotten race has been wandering the galaxy warning of the dire costs of war. His message of peace and unity seems to be taking root in all who hear him, even among your most aggressive neighbors. Diplomats throughout the galaxy report that their efforts are now finding much more traction.
+		[COLOR=UIDefaultHighlight]Global Effect:  +1 Diplomacy, all races[/COLOR]</String>
+	</StringTable>
+ 
+	<StringTable>
+		<Label>DoctorsWarningEvent_Name</Label>
+		<String>The 11th Doctors warning</String>
+	</StringTable>
+ 
+	<StringTable>
+		<Label>DoctorsWarningEvent_Dec</Label>
+		<String>Those who would seek to conquer others will undoubtedly have him to deal with. This message was broadcast across the galaxy to citizens of every race.
+		[COLOR=UIDefaultHighlight]Global Effect:  -20% Approval, all races[/COLOR]</String>
+	</StringTable>
+	
+	<StringTable>
+		<Label>TardisCoreEvent_Name</Label>
+		<String>Tardis Core</String>
+	</StringTable>
+ 
+	<StringTable>
+		<Label>TardisCoreEvent_Dec</Label>
+		<String>The core of the Tardis has released an energy wave across the known universe. While it's effects are unknown races across the galaxy have noticed a significant increase completed research.
+		[COLOR=UIDefaultHighlight]Global Effect:  +25% Research, all races[/COLOR]</String>
+	</StringTable>
+	
+	<StringTable>
+		<Label>DoctorWho?Event_Name</Label>
+		<String>Doctor Who?</String>
+	</StringTable>
+ 
+	<StringTable>
+		<Label>DoctorWho?Event_Dec</Label>
+		<String>With all traces of the Doctor gone and the memory of him erased from existence. Many in the galaxy see no resistance to concern themselves with.
+		[COLOR=UIDefaultHighlight]Global Effect:  -1 Diplomacy, all races[/COLOR]</String>
+	</StringTable>
+	
+	<StringTable>
+		<Label>WhoSlowdownEvent_Name</Label>
+		<String>The Mist</String>
+	</StringTable>
+ 
+	<StringTable>
+		<Label>WhoSlowdownEvent_Dec</Label>
+		<String>A mysterious mist has engulfed the entire universe, blinding ships across the galaxy. This must be the work of the Doctor!
+		[COLOR=UIDefaultHighlight]Global Effect:  -75% Sensor Range, all races[/COLOR]</String>
+	</StringTable>
+	
+		<StringTable>
+		<Label>WhoPotentialEvent_Name</Label>
+		<String>The Sonic Screwdriver</String>
+	</StringTable>
+ 
+	<StringTable>
+		<Label>WhoPotentialEvent_Dec</Label>
+		<String>Spreading the word of each races potential was never enough for the Doctor. Using his sonic screwdriver the Doctor has increased our overall efficiency. It is unknown how long this surge will last. We should make use of it before it dissipates.
+		[COLOR=UIDefaultHighlight]Global Effect:  +1 for all existing Adjacency bonuses, all races[/COLOR]</String>
+	</StringTable>
+ 
+ <!--Modified By Wulff420(5/24/2015,4:27 5:55 6:47 AM)-->
+ <!--"Would You like a Jelly Baby?" Event-->
+ 
+ 	<StringTable>
+		<Label>JellyBabyEvent_Name</Label>
+		<String>Would You like a Jelly Baby?</String>
+	</StringTable>
+ 
+	<StringTable>
+		<Label>JellyBabyEvent_Dec</Label>
+		<String>The Fourth Doctor is going around offering everybody he meets a Jelly Baby.  Well,  many Jelly Babies.  As a result of His humorous and eccentric kindness,  all the peoples of the universe are slightly better fed granting a bonus to growth on all planets for a short time.
+		[COLOR=UIDefaultHighlight]Global Effect:  +25% Growth, all races[/COLOR]</String>
+	</StringTable>
+ 
+ <!--Modified By Wulff420(5/25/2015,1:43 AM)-->
+ <!--"Captain Jack's Baby Boom!" Event-->
+ 
+ 	<StringTable>
+		<Label>BabyBoomEvent_Name</Label>
+		<String>Captain Jack's Baby Boom!</String>
+	</StringTable>
+ 
+	<StringTable>
+		<Label>BabyBoomEvent_Dec</Label>
+		<String>The Doctor is travelling the universe with his old friend Captain Jack Harkness.  Captain Jack hits on you and anyone else he meets and suddenly many of the women are turning up happy. and many new children are being born.  The new arrivals to the planets seem to resemble a certain handsome time agent but there has been a positive effect to growth for all species.
+		[COLOR=UIDefaultHighlight]Global Effect:  +50% Growth, all races[/COLOR]</String>
+	</StringTable>
+	
+<!--Modified By Mohobie-->
+<!--Allonsy Event-->
+	
+	<StringTable>
+		<Label>AllonsyEvent_Name</Label>
+		<String>Allons-y!</String>
+	</StringTable>
+ 
+	<StringTable>
+		<Label>AllonsyEvent_Dec</Label>
+		<String>While eluding one of his many enemies the Doctor used his sonic screwdriver to speed up his ship. It appears ships everywhere have somehow received a boost of speed from his actions.
+		[COLOR=UIDefaultHighlight]Global Effect:  +25% Ship Speed, all races[/COLOR]</String>
+	</StringTable>
+	
+<!--Modified By Wulff420(5/25/2015,5:16 PM)-->
+<!--"No Hanky Panky In My Tardis!" Event-->
+ 
+ 	<StringTable>
+		<Label>NoHankyPankyEvent_Name</Label>
+		<String>NO HANKY PANKY IN MY TARDIS!</String>
+	</StringTable>
+ 
+	<StringTable>
+		<Label>NoHankyPankyEvent_Dec</Label>
+		<String>Upon learning about a recent baby boom throughout the universe, in either the past or the future being as he always gets those two confused.  The Twelfth Doctor Became angry when he saw Who some of the children resembled and proceeded to shout,  "THERE IS NO HANKY PANKY IN MY TARDIS!"  Upon hearing this shout peoples of the universe become uneasy about mating entirely.  This Uneasiness has dealt a major blow to growth throughout The Universe
+		[COLOR=UIDefaultHighlight]Global Effect:  -75% Growth, all races[/COLOR]</String>
+	</StringTable>
+	
+<!--Modified By Wulff420(5/25/2015,8:21 PM)-->
+<!--"Raging River!" Event-->
+
+	<StringTable>
+		<Label>RagingRiverEvent_Name</Label>
+		<String>Raging River!</String>
+	</StringTable>
+ 
+	<StringTable>
+		<Label>RagingRiverEvent_Dec</Label>
+		<String>Professor River Song is not happy, she has heard that the Doctor Regenerated and because he still hasn't come to meet her she is very upset.  She is travelling the Universe by means of all the peoples' ships,  wheeling and dealing shouting and threatening everyone everywhere and everywhen,  searching for the Twelfth Doctor to cuss him out.  As a result of this,  civilizations all around are uneasy, annoyed, and a bit frightened too thus affecting morale across the Worlds.  
+		[COLOR=UIDefaultHighlight]Global Effect:  -25% Approval, all races[/COLOR]</String>
+	</StringTable>
+
+<!--Modified By Wulff420(5/26/2015,7:38 PM)-->
+<!--"Dorium Maldovar's Visit" Event-->
+
+	<StringTable>
+		<Label>DoriumMaldovarEvent_Name</Label>
+		<String>Dorium Maldovar's Visit!</String>
+	</StringTable>
+ 
+	<StringTable>
+		<Label>DoriumMaldovarEvent_Dec</Label>
+		<String>Dorium Maldovar some how has his body back and is on the run from the headless monks.  He is stopping around planets and staying for short times and conducting much business.  As a result of this income is booming in all aspects but he is a bit of a pain so moral is affected. having an additional mouth to feed when he stays for a while everywhere also affects food supplies.  Still the money is good right?
+		[COLOR=UIDefaultHighlight]Global Effect:  -20% Approval, -20% Growth, +20% Tourism, +20% Gross income, +20% Trade rout Income, all races[/COLOR]</String>
+	</StringTable>
+ 
+</StringTableList>

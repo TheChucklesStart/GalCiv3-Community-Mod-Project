@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StarSystemList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Schema/StarSystemDefs.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- StarSystemDefs.xml -->
+ 
+  <!-- System Group -->
+ 
+  <StarSystemGroup>
+    <InternalName>FactionStartCheaterExample</InternalName>
+ 
+    <StarSystem>
+      <InternalName>CheaterExampleSystem</InternalName>
+      <DisplayName>CheaterExample Home System</DisplayName>
+      <Description>Pretty Cheating System</Description>
+      <OrbitLane>
+        <LaneType>Star</LaneType>
+        <Body>
+          <BodyType>UnaryStar</BodyType>
+          <BodyDef>BlueStar</BodyDef>
+        </Body>
+      </OrbitLane>
+      <OrbitLane>
+        <LaneType>NoRandom</LaneType>
+        <Body>
+          <BodyType>Planet</BodyType>
+          <BodyDef>PlanetCheatPlanet1</BodyDef>
+        </Body>
+      </OrbitLane>
+      <OrbitLane>
+        <LaneType>HabitableZone</LaneType>
+        <Body>
+          <BodyType>Planet</BodyType>
+          <BodyDef>PlanetCheatPlanet2</BodyDef>
+          <IsHomeworld>true</IsHomeworld>
+          <Position>5</Position>
+        </Body>
+        <Body>
+          <BodyType>Planet</BodyType>
+          <BodyDef>PlanetCheatPlanet3</BodyDef>
+        </Body>
+      </OrbitLane>
+      <OrbitLane>
+        <LaneType>NoRandom</LaneType>
+        <Body>
+          <BodyType>Asteroid</BodyType>
+          <BodyDef>NormalAsteroid</BodyDef>
+          <Position>0</Position>
+        </Body>
+        <Body>
+          <BodyType>Planet</BodyType>
+          <BodyDef>PlanetCheatPlanet4</BodyDef>
+        </Body>
+        <Body>
+          <BodyType>Planet</BodyType>
+          <BodyDef>PlanetCheatPlanet5</BodyDef>
+        </Body>
+      </OrbitLane>
+    </StarSystem>
+ 
+    
+ </StarSystemGroup>
+ 
+</StarSystemList>

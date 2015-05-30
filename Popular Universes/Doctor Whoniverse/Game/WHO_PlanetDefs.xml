@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<PlanetList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Schema/PlanetDefs.xsd">
+
+	<!-- Cybermen system -->
+	<Planet>
+    <InternalName>PlanetMondas</InternalName>
+    <DisplayName>MondasName</DisplayName>
+    <PlanetType>Habitable</PlanetType>
+    <PlanetClass>12</PlanetClass>
+    <ArtDefine>IconiaArt</ArtDefine>
+  </Planet>
+  
+ <Planet>
+		<InternalName>PlanetMondas2</InternalName>
+		<DisplayName>Mondas2Name</DisplayName>
+		<PlanetType>Dead</PlanetType>
+		<PlanetClass>0</PlanetClass>
+		<ArtDefine>Iconia2Art</ArtDefine>
+	</Planet>
+
+	<Planet>
+		<InternalName>PlanetMondas3</InternalName>
+		<DisplayName>Mondas3Name</DisplayName>
+		<PlanetType>Dead</PlanetType>
+		<PlanetClass>0</PlanetClass>
+		<ArtDefine>Iconia3Art</ArtDefine>
+	</Planet>
+
+	<Planet>
+		<InternalName>PlanetMondas4</InternalName>
+		<DisplayName>Mondas4Name</DisplayName>
+		<PlanetType>Dead</PlanetType>
+		<PlanetClass>0</PlanetClass>
+		<ArtDefine>Iconia4Art</ArtDefine>
+	</Planet>
+	
+	  <!--Dalek System-->
+  
+	<Planet>
+		<InternalName>PlanetSkaroII</InternalName>
+		<DisplayName>SkaroII_Name</DisplayName>
+		<PlanetType>Habitable</PlanetType>
+		<PlanetClass>11</PlanetClass>		
+		<ArtDefine>DrengiArt</ArtDefine>
+	</Planet>
+
+  <Planet>
+    <InternalName>PlanetSkaroI</InternalName>
+    <DisplayName>SkaroI_Name</DisplayName>
+    <PlanetType>Habitable</PlanetType>
+    <PlanetClass>5</PlanetClass>
+		<DisableColonizationEvent>true</DisableColonizationEvent>
+    <ArtDefine>TempOKPlanet07</ArtDefine>
+  </Planet>
+
+  <Planet>
+    <InternalName>PlanetSkaroV</InternalName>
+    <DisplayName>SkaroV_Name</DisplayName>
+    <PlanetType>Dead</PlanetType>
+    <PlanetClass>0</PlanetClass>
+    <ArtDefine>VenusArt</ArtDefine>
+  </Planet>
+
+  <Planet>
+    <InternalName>PlanetSkaroIII</InternalName>
+    <DisplayName>SkaroIII_Name</DisplayName>
+    <PlanetType>Dead</PlanetType>
+    <PlanetClass>0</PlanetClass>
+    <ArtDefine>MercuryArt</ArtDefine>
+  </Planet>
+
+  <Planet>
+    <InternalName>PlanetSkaroIV</InternalName>
+    <DisplayName>SkaroIV_Name</DisplayName>
+    <PlanetType>Dead</PlanetType>
+    <PlanetClass>0</PlanetClass>
+    <ArtDefine>TempOKPlanet04</ArtDefine>
+  </Planet>
+ 
+	<!-- Angels System -->
+ 
+   <Planet>
+    <InternalName>PlanetAphrodite</InternalName>
+    <DisplayName>AngelsName</DisplayName>
+    <PlanetType>Habitable</PlanetType>
+    <PlanetClass>8</PlanetClass>
+    <ArtDefine>KrysethArt</ArtDefine>
+  </Planet>
+
+  <Planet>
+    <InternalName>PlanetAphroditeAlpha</InternalName>
+    <DisplayName>PlanetAphroditeAlphaName</DisplayName>
+    <PlanetType>Habitable</PlanetType>
+    <PlanetClass>4</PlanetClass>
+		<DisableColonizationEvent>true</DisableColonizationEvent>
+    <ArtDefine>GenericWorld</ArtDefine>
+  </Planet>
+
+  <Planet>
+    <InternalName>PlanetAphroditeBeta</InternalName>
+    <DisplayName>PlanetAphroditeBetaName</DisplayName>
+    <PlanetType>Habitable</PlanetType>
+    <PlanetClass>4</PlanetClass>
+		<DisableColonizationEvent>true</DisableColonizationEvent>
+    <ArtDefine>GenericWorld</ArtDefine>
+  </Planet>
+
+	<!-- Toclafane System -->
+ 
+   <Planet>
+    <InternalName>PlanetUtopia</InternalName>
+    <DisplayName>PlanetUtopiaName</DisplayName>
+    <PlanetType>Habitable</PlanetType>
+    <PlanetClass>12</PlanetClass>
+    <ArtDefine>IridiaArt</ArtDefine>
+  </Planet>
+
+  <Planet>
+    <InternalName>PlanetYanaPrime</InternalName>
+    <DisplayName>PlanetYanaPrimeName</DisplayName>
+    <PlanetType>Habitable</PlanetType>
+    <PlanetClass>3</PlanetClass>
+		<DisableColonizationEvent>true</DisableColonizationEvent>
+    <ArtDefine>GenericWorld</ArtDefine>
+  </Planet>
+
+  <Planet>
+    <InternalName>PlanetYanaZata</InternalName>
+    <DisplayName>PlanetYanaZataName</DisplayName>
+        <PlanetType>GasGiant</PlanetType>
+    <PlanetClass>0</PlanetClass>
+    <ArtDefine>GasGiantArt</ArtDefine>
+  </Planet>
+
+	<!-- Sontaran system -->
+	
+	<Planet>
+    <InternalName>PlanetSontar</InternalName>
+    <DisplayName>SontarName</DisplayName>
+    <PlanetType>Habitable</PlanetType>
+    <PlanetClass>12</PlanetClass>
+    <ArtDefine>IconiaArt</ArtDefine>
+  </Planet>
+  
+  <Planet>
+		<InternalName>PlanetSontar1</InternalName>
+		<DisplayName>Sontar1Name</DisplayName>
+		<PlanetType>Dead</PlanetType>
+		<PlanetClass>0</PlanetClass>
+		<ArtDefine>Iconia2Art</ArtDefine>
+	</Planet>
+
+	<Planet>
+		<InternalName>PlanetSontar3</InternalName>
+		<DisplayName>Sontar3Name</DisplayName>
+		<PlanetType>Dead</PlanetType>
+		<PlanetClass>0</PlanetClass>
+		<ArtDefine>Iconia3Art</ArtDefine>
+	</Planet>
+
+	<Planet>
+		<InternalName>PlanetSontar4</InternalName>
+		<DisplayName>Sontar4Name</DisplayName>
+		<PlanetType>Dead</PlanetType>
+		<PlanetClass>0</PlanetClass>
+		<ArtDefine>Iconia4Art</ArtDefine>
+	</Planet>
+  
+</PlanetList>

@@ -1,0 +1,1 @@
+This is the CheaterExample.  It is currently an expirement to see how the modding mechanics work.  I feel other modders might find some of the things I do here useful.

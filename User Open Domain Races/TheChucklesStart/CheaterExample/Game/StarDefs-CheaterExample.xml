@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StarList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Schema/StarDefs.xsd">
+
+  <Star>
+    <InternalName>CheaterExampleStart</InternalName>
+    <DisplayName>CheaterStar</DisplayName>
+    <ObjectType>Star</ObjectType>
+    <Type>BlueStar</Type>
+    <ArtDefine>BlueStarArt</ArtDefine>
+    <SFXDefine>STAR_AMBIENT</SFXDefine>
+  </Star>
+
+</StarList>

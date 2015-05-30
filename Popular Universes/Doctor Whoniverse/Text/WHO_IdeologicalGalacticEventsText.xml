@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+
+<!-- Modified by Mohobie -->
+ 
+<!-- Event Names, Descriptions, & Options -->
+ 
+ <!--Ood Shipment Event -->
+	<StringTable>
+		<Label>OodShipmentEvent_Name</Label>
+		<String>Abandoned Ood Shipment</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>OodShipmentEvent_Dec</Label>
+		<String>A ship full of Ood that were to be sold as servants was located and appears to have been abandoned. Only Ood remain on the ship. We can not determine when, where, or why the crew abandoned the ship.</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>OodShipmentEvent_Benevolent_Bonus_Name</Label>
+		<String>These poor creatures were to be sold into slavery. Free them and see that they are returned to their kind.</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>OodShipmentEvent_Benevolent_Bonus_Dec</Label>
+		<String>+5 Benevolent per turn</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>OodShipmentEvent_Neutral_Bonus_Name</Label>
+		<String>We asked the Ood, they want to serve. Surely we would provide a better home then they would have had.</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>OodShipmentEvent_Neutral_Bonus_Dec</Label>
+		<String>+5 Pragmatic per turn</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>OodShipmentEvent_Merciless_Bonus_Name</Label>
+		<String>Free slaves is a gift from the universe. Put them to work.</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>OodShipmentEvent_Merciless_Bonus_Dec</Label>
+		<String>+5 Malevolent per turn</String>
+	</StringTable>
+ 
+ <!--Silence Event -->
+	<StringTable>
+		<Label>SilenceEvent_Name</Label>
+		<String>Silence has fallen</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>SilenceEvent_Dec</Label>
+		<String>Citizens everywhere have begun to forget moments of their time. This is leading to decreased production everywhere. The Doctor for told of a race that would make you forget. We have begun production of Eye Drives, which allow us to remember The Silence. Unfortunately there is not enough raw material to distribute them to everyone.</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>SilenceEvent_Benevolent_Bonus_Name</Label>
+		<String>Spread out the Eye Drives to all races. Make sure that each race is able to secure their primary operations.</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>SilenceEvent_Benevolent_Bonus_Dec</Label>
+		<String>+5 Benevolent per turn, +10% Diplomacy, -5% Research</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>SilenceEvent_Neutral_Bonus_Name</Label>
+		<String>The Eye Drives need to be used to help our people above all else. Spread them all out to our people and share the technology with others.</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>SilenceEvent_Neutral_Bonus_Dec</Label>
+		<String>+5 Pragmatic per turn, +5% Diplomacy</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>SilenceEvent_Merciless_Bonus_Name</Label>
+		<String>We made the Eye Drives, they are ours. Let the others in the galaxy solve their own problems. We can use some of our income to purchase additional rare supplies needed to create more Eye Drives for our people.</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>SilenceEvent_Merciless_Bonus_Dec</Label>
+		<String>+5 Malevolent per turn, +10% Manufacturing, -5% Total Income</String>
+	</StringTable>
+ 
+ <!--CaptainJack1Event -->
+	<StringTable>
+		<Label>CaptainJack1Event_Name</Label>
+		<String>What to do with Captain Jack</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>CaptainJack1Event_Dec</Label>
+		<String>Captain Jack Harkness has been captured while sneaking into a high security area. If he is freed he will tell the Doctor of what he has seen.</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>CaptainJack1Event_Benevolent_Bonus_Name</Label>
+		<String>We do not want the Doctor to know our secrets but we would not want the Doctor to judge us poorly. Let him go.</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>CaptainJack1Event_Benevolent_Bonus_Dec</Label>
+		<String>+5 Benevolent per turn, -5% Diplomacy</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>CaptainJack1Event_Neutral_Bonus_Name</Label>
+		<String>He has broken into areas he should never be we can not allow that. Arrest him and let the legal system decide his fate.</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>CaptainJack1Event_Neutral_Bonus_Dec</Label>
+		<String>+5 Pragmatic per turn, -5% Total Income</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>CaptainJack1Event_Merciless_Bonus_Name</Label>
+		<String>If the Doctor hears of our plans there will be problems. Kill him and ship him in to the center of a star far far waway.</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>CaptainJack1Event_Merciless_Bonus_Dec</Label>
+		<String>+5 Malevolent per turn, -5% Manufacturing</String>
+	</StringTable>
+	
+<!--Gallifrey Event -->
+	<StringTable>
+		<Label>Gallifrey1Event_Name</Label>
+		<String>Gallifrey is on the telly</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>Gallifrey1Event_Dec</Label>
+		<String>The Timelords homeworld of Gallifrey has appeared on one of your monitors. The source of this signal is unknown and is currently only being beamed to the leaders of each race. The purpose of this transmission is unknown.</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>Gallifrey1Event_Benevolent_Bonus_Name</Label>
+		<String>The Timelords may need our help. Find the source of this transmission and broadcast it to our people. Let us hope we can help.</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>Gallifrey1Event_Benevolent_Bonus_Dec</Label>
+		<String>+5 Benevolent per turn, +10% Approval</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>Gallifrey1Event_Neutral_Bonus_Name</Label>
+		<String>The potential return of the Timelords will surely mean change on a galactic scale. Use jammers to prevent others from intercepting the feed. If we can control the broadcast we can sell the feed.</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>Gallifrey1Event_Neutral_Bonus_Dec</Label>
+		<String>+5 Pragmatic per turn, +10% Total Income</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>Gallifrey1Event_Merciless_Bonus_Name</Label>
+		<String>Gallifrey is full of useful technology. While it may be out of our reach, the source of this broadcast surely isn't. Find the source and take it to our scientists. Kill any who have seen this.</String>
+	</StringTable>
+	 
+	<StringTable>
+		<Label>Gallifrey1Event_Merciless_Bonus_Dec</Label>
+		<String>+5 Malevolent per turn, +10% Research</String>
+	</StringTable>	
+ 
+ </StringTableList>

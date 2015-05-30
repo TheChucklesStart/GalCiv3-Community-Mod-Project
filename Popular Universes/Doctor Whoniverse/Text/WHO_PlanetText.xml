@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+
+
+  <!--Cybermen System-->
+
+  <StringTable>
+    <Label>MondasName</Label>
+    <String>Mondas</String>
+  </StringTable>
+
+	<StringTable>
+    <Label>Mondas2Name</Label>
+    <String>Mondas II</String>
+  </StringTable>
+
+	<StringTable>
+    <Label>Mondas3Name</Label>
+    <String>Mondas III</String>
+  </StringTable>
+
+	<StringTable>
+    <Label>Mondas4Name</Label>
+    <String>Mondas IV</String>
+	</StringTable>  
+  
+  <!--Dalek System-->
+  
+  <StringTable>
+    <Label>SkaroI_Name</Label>
+    <String>Skaro I</String>
+  </StringTable>
+
+  <StringTable>
+    <Label>SkaroII_Name</Label>
+    <String>Skaro II</String>
+  </StringTable>
+	
+  <StringTable>
+    <Label>SkaroIII_Name</Label>
+    <String>Skaro III</String>
+  </StringTable>  
+  
+  <StringTable>
+    <Label>SkaroIV_Name</Label>
+    <String>Skaro IV</String>
+  </StringTable>  
+  
+  <StringTable>
+    <Label>SkaroV_Name</Label>
+    <String>Skaro V</String>
+  </StringTable>  
+  
+  <!-- Angels System -->
+  
+  <StringTable>
+	<Label>AngelsName</Label>
+	<String>Aphrodite</String>
+  </StringTable>
+
+  <StringTable>
+	<Label>PlanetAphroditeAlphaName</Label>
+	<String>Aphrodite Alpha</String>
+  </StringTable>
+  
+  <StringTable>
+	<Label>PlanetAphroditeBetaName</Label>
+	<String>Aphrodite Omega</String>
+  </StringTable>
+ 
+ <!-- Toclafane System -->
+  
+  <StringTable>
+	<Label>PlanetUtopiaName</Label>
+	<String>Utopia</String>
+  </StringTable>
+
+  <StringTable>
+	<Label>PlanetYanaPrimeName</Label>
+	<String>Yana Prime</String>
+  </StringTable>
+  
+  <StringTable>
+	<Label>PlanetYanaZataName</Label>
+	<String>Yana Zata</String>
+  </StringTable>
+ 
+ 
+  <!--Sontaran System-->
+
+  <StringTable>
+    <Label>SontarName</Label>
+    <String>Sontar</String>
+  </StringTable>
+
+	<StringTable>
+    <Label>Sontar1Name</Label>
+    <String>Sontar II</String>
+  </StringTable>
+
+	<StringTable>
+    <Label>Sontar3Name</Label>
+    <String>Sontar III</String>
+  </StringTable>
+
+	<StringTable>
+    <Label>Sontar4Name</Label>
+    <String>Sontar IV</String>
+	</StringTable>  
+ 
+</StringTableList>

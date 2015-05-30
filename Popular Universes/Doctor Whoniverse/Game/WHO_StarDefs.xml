@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StarList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Schema/StarDefs.xsd">
+  
+  <!-- Modified by Mohobie -->
+
+  <Star>
+    <InternalName>CyberStar</InternalName>
+    <DisplayName>CyberSystem_Name</DisplayName>
+    <ObjectType>Star</ObjectType>
+    <Type>YellowStar</Type>
+    <ArtDefine>OrangeStarArt</ArtDefine>
+	<SFXDefine>STAR_AMBIENT</SFXDefine>
+  </Star>
+  
+  <Star>
+    <InternalName>DalekStar</InternalName>
+    <DisplayName>DalekSystem_Name</DisplayName>
+    <ObjectType>Star</ObjectType>
+    <Type>YellowStar</Type>
+    <ArtDefine>SunArt</ArtDefine>
+	<SFXDefine>STAR_AMBIENT</SFXDefine>
+  </Star>
+  
+  <Star>
+    <InternalName>AngelsStar</InternalName>
+    <DisplayName>AngelsSystem_Name</DisplayName>
+    <ObjectType>Star</ObjectType>
+    <Type>BlueStar</Type>
+    <ArtDefine>BlueStarArt</ArtDefine>
+	<SFXDefine>STAR_AMBIENT</SFXDefine>
+  </Star>  
+  
+  <Star>
+    <InternalName>ToclafaneStar</InternalName>
+    <DisplayName>ToclafaneSystem_Name</DisplayName>
+    <ObjectType>Star</ObjectType>
+    <Type>WhiteStar</Type>
+    <ArtDefine>WhiteDwarfArt</ArtDefine>
+  </Star> 
+
+  <Star>
+    <InternalName>SontaranStar</InternalName>
+    <DisplayName>SontaranSystem_Name</DisplayName>
+    <ObjectType>Star</ObjectType>
+    <Type>YellowStar</Type>
+    <ArtDefine>PurpleStarArt</ArtDefine>
+	<SFXDefine>STAR_AMBIENT</SFXDefine>
+  </Star>
+  
+</StarList>

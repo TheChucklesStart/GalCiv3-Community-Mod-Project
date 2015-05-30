@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Modified by Mohobie -->
+ 
+<!-- Star names and descriptions -->
+  
+  <StringTable>
+    <Label>CyberSystem_Name</Label>
+    <String>Telos</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>CyberSystem_Dec</Label>
+    <String>Telos System</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>DalekSystem_Name</Label>
+    <String>D5 Gamma Z Alpha</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>DalekSystem_Dec</Label>
+    <String>D5 Gamma Z Alpha System</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>AngelsSystem_Name</Label>
+    <String>Eros</String>
+  </StringTable>
+  
+   <StringTable>
+    <Label>AngelsSystem_Dec</Label>
+    <String>Eros System</String>
+  </StringTable>
+  
+   <StringTable>
+    <Label>ToclafaneSystem_Name</Label>
+    <String>Malcassairo</String>
+  </StringTable>
+  
+   <StringTable>
+    <Label>ToclafaneSystem_Dec</Label>
+    <String>Malcassairo System</String>
+  </StringTable>
+  
+   <StringTable>
+    <Label>SontaranSystem_Name</Label>
+    <String>Strax</String>
+  </StringTable>
+  
+  <StringTable>
+    <Label>SontaranSystem_Dec</Label>
+    <String>Strax System</String>
+  </StringTable>
+ 
+</StringTableList>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<FactionList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Schema/FactionDefs.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- FactionDefs.xml -->
+  
+    <Faction>
+        <InternalName>FACTION_CHEATEREXAMPLE</InternalName>
+        <DisplayName>CheaterExample</DisplayName>
+        <DisplayNameShort>Cheater</DisplayNameShort>
+        <LeaderName>Mega Cheater</LeaderName>
+        <Description>Cheating People</Description>
+        <LeaderDescription>A Cheater at GalCiv III</LeaderDescription>
+        <RaceType>Major</RaceType>
+        <PersonalityTraits>Neutral</PersonalityTraits>
+        <PersonalityTraits>Expansionist</PersonalityTraits>
+        <PersonalityTraits>Diplomatic</PersonalityTraits>
+        <RaceTraits>EngineersAbility</RaceTraits>
+        <RaceTraits>ColonizersAbility</RaceTraits>
+        <RaceTraits>KnowledgeableAbility</RaceTraits>
+        <RaceTraits>PatrioticAbility</RaceTraits>
+        <RaceTraits>ParanoidAbility</RaceTraits>
+        <RaceTraits>UnwaveringAbility</RaceTraits>
+        <RaceTraits>ProlificAbility</RaceTraits>
+        <RaceTraits>StarfaringAbility</RaceTraits>
+        <RaceTraits>EntrepreneursAbility</RaceTraits>
+        <RaceTraits>Productive1</RaceTraits>
+        <RaceTraits>Clever1</RaceTraits>
+        <RaceTraits>Economical1</RaceTraits>
+        <RaceTraits>Content1</RaceTraits>
+        <RaceTraits>Fertile1</RaceTraits>
+        <RaceTraits>Handy1</RaceTraits>
+        <RaceTraits>Dense1</RaceTraits>
+        <RaceTraits>Militant1</RaceTraits>
+        <RaceTraits>Popular1</RaceTraits>
+        <RaceTraits>Traders1</RaceTraits>
+        <RaceTraits>Farmers1</RaceTraits>
+        <RaceTraits>Brutal1</RaceTraits>
+        <RaceTraits>Courageous1</RaceTraits>
+        <RaceTraits>Tough1</RaceTraits>
+        <RaceTraits>SharpEyed1</RaceTraits>
+        <RaceTraits>Agile1</RaceTraits>
+        <RaceTraits>Resilient1</RaceTraits>
+        <RaceTraits>Adventuresome1</RaceTraits>
+        <RaceTraits>Likeable1</RaceTraits>
+        <RaceTraits>Observant1</RaceTraits>
+        <RaceTraits>Fast1</RaceTraits>
+        <RaceTraits>Organized1</RaceTraits>
+        <RequiresHomeworld>true</RequiresHomeworld>
+        <HomeStarSystem>CheaterExampleSystem</HomeStarSystem>
+        <StartingShips>ColonyStaticBlueprint</StartingShips>
+        <StartingShips>ColonyStaticBlueprint</StartingShips>
+        <StartingShips>ColonyStaticBlueprint</StartingShips>
+        <StartingShips>ColonyStaticBlueprint</StartingShips>
+        <StartingShips>SurveyStaticBlueprint</StartingShips>
+        <StartingShips>ScoutStaticBlueprint</StartingShips>
+        <TechTree>Terran_Tree</TechTree>
+        <ShipCallsign>FACTION_TERRAN_Callsign</ShipCallsign>
+        <LogoImage>RaceLogo00.png</LogoImage>
+        <LeaderThumbnail>GC3_DL_Bradley_Small.png</LeaderThumbnail>
+        <NewsRobotMovie_Approach>Terran_ResearchAdviser_Approach.bk2</NewsRobotMovie_Approach>
+        <NewsRobotMovie_Idle>Terran_ResearchAdviser_Idle.bk2</NewsRobotMovie_Idle>
+        <StartupImage>StartGameTerran.png</StartupImage>
+        <StartupTitle>FACTION_TERRAN_StartupTitle</StartupTitle>
+        <StartupDescription>FACTION_TERRAN_StartupDescription</StartupDescription>
+        <StartupTraitsDescription>FACTION_TERRAN_StartupTraitsDescription</StartupTraitsDescription>
+        <ConquestMovie>MilVic_TERRAN.bk2</ConquestMovie>
+        <MapColorDef>TerranMapColors</MapColorDef>
+        <UIColorDef>TerranUIColors</UIColorDef>
+        <FactionMoviesFGDef>TerranMoviesFG</FactionMoviesFGDef>
+        <FactionMoviesBGDef>TerranMoviesBG</FactionMoviesBGDef>
+        <FactionMusicDef>TerranMusic</FactionMusicDef>
+        <Material1>GC3_Ship_Material_01</Material1>
+        <Material2>GC3_Ship_Material_02</Material2>
+        <Surface1>GC3_Default_Surface_01</Surface1>
+        <Surface2>GC3_Default_Surface_02</Surface2>
+        <Appearance>GC3_Terran_Appearance</Appearance>
+        <ShipStyleSet>TerranShipStyleSet</ShipStyleSet>
+        <CreditsInit>5000</CreditsInit>
+        <WarEnduranceInit>90</WarEnduranceInit>
+        <DefaultResistance>0.4</DefaultResistance>
+        <InfluenceTallyInit>10</InfluenceTallyInit>
+        <StartingColonyPopulation>10</StartingColonyPopulation>
+        <AICategoryWeight>
+          <Military>15</Military>
+          <Growth>10</Growth>
+          <Tech>20</Tech>
+          <Diplomacy>15</Diplomacy>
+          <Expansion>20</Expansion>
+          <Wealth>10</Wealth>
+          <Influence>5</Influence>
+          <Fortification>5</Fortification>
+        </AICategoryWeight>
+    </Faction>
+  
+</FactionList>

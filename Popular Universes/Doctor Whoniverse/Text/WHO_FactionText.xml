@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<StringTableList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../../Schema/Lib/StringTable.xsd">
+<!-- Modified by Mohobie -->
+<!-- WHO_FactionText.xml -->
+ 
+<!-- Human Names and Descriptions -->
+  
+   <StringTable>
+    <Label>FACTION_HUMAN_Name</Label>
+    <String>Humans</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_HUMAN_ShortName</Label>
+    <String>Humans</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_HUMAN_LeaderName</Label>
+    <String>TESTOR</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_HUMAN_Dec</Label>
+    <String>Humans are a species of sentient primates.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_HUMAN_LeaderDec</Label>
+    <String>THIS RACE IS A CHEAT AND IS CURRENTLY FOR TESTING PURPOSES ONLY</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_HUMAN_Callsign</Label>
+    <String>S.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_HUMAN_StartupTitle</Label>
+    <String>STARTUP TITLE</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_HUMAN_StartupDescription</Label>
+    <String>ENTER STARTUP DESCRIPTION HERE</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_HUMAN_StartupTraitsDescription</Label>
+    <String>ENTER STARTUP TRAITS DESCRIPTION HERE</String>
+  </StringTable>
+  
+<!-- Cybermen Names and Descriptions -->
+  
+   <StringTable>
+    <Label>FACTION_CYBERMEN_Name</Label>
+    <String>Cybermen</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_CYBERMEN_ShortName</Label>
+    <String>Cybermen</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_CYBERMEN_LeaderName</Label>
+    <String>Control</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_CYBERMEN_Dec</Label>
+    <String>Cybermen are a "race" of cybernetically augmented humanoids.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_CYBERMEN_LeaderDec</Label>
+    <String>Control is a large, severed Cyberman head located in the centre of their capital.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_CYBERMEN_Callsign</Label>
+    <String>Ctrl</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_CYBERMEN_StartupTitle</Label>
+    <String>You will become like us.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_CYBERMEN_StartupDescription</Label>
+    <String>The Cybermen are humanoid, but have been altered until they have few remaining organic parts. They retain living human brains.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_CYBERMEN_StartupTraitsDescription</Label>
+    <String>Together we can upgrade the universe.</String>
+  </StringTable>
+
+<!-- Dalek Names and Descriptions -->
+  
+   <StringTable>
+    <Label>FACTION_DALEK_Name</Label>
+    <String>Dalek</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DALEK_ShortName</Label>
+    <String>Dalek</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DALEK_LeaderName</Label>
+    <String>Davros</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DALEK_Dec</Label>
+    <String>The Daleks are one of the most feared races in the universe. Their creator, Davros only has one intention, destroying all life apart from Dalek life.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DALEK_LeaderDec</Label>
+    <String>Davros is from the planet Skaro, whose people, the Kaleds, were engaged in a bitter thousand-year war of attrition with their enemies, the Thals. He is horribly scarred and crippled.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DALEK_Callsign</Label>
+    <String>D.L.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DALEK_StartupTitle</Label>
+    <String>Exterminate!</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DALEK_StartupDescription</Label>
+    <String>Daleks resemble human-sized pepper shakers with a single mechanical eyestalk mounted on a rotating dome, a gun mount containing an energy weapon ("gunstick" or "death ray"), and a telescopic manipulator arm usually tipped by an appendage resembling a sink plunger. Daleks have been known to use their plungers to interface with technology, crush a man's skull by suction, measure the intelligence of a subject, and extract information from a man's mind. Dalek casings are made of a bonded polycarbide material dubbed "dalekanium".</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_DALEK_StartupTraitsDescription</Label>
+    <String>We are superior!</String>
+  </StringTable>
+  
+<!-- Angels Names and Descriptions -->
+  
+   <StringTable>
+    <Label>FACTION_ANGELS_Name</Label>
+    <String>Weeping Angels</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ANGELS_ShortName</Label>
+    <String>Angels</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ANGELS_LeaderName</Label>
+    <String>Progenitor</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ANGELS_Dec</Label>
+    <String>The few remaining Weeping Angels were happened upon by a religious expedition. They began to worship the angels and thus spread them across the galaxy.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ANGELS_LeaderDec</Label>
+    <String>Nothing is known about the Progenitor.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ANGELS_Callsign</Label>
+    <String>A.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ANGELS_StartupTitle</Label>
+    <String>Blink...</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ANGELS_StartupDescription</Label>
+    <String>Described by one as the deadliest, most powerful, most malevolent life-form ever produced. The Weeping Angels are unusual as predators in that they neither kill nor directly parasitize their prey. Their usual mode of feeding is to make use of time paradoxes - with a single touch, a Weeping Angel can send a person into the past to a point before his/her own birth, and can then feed off the "potential energy" of the years which that victim would have lived in the present. The Doctor describes the Angels as "the only psychopaths in the universe to kill you nicely" because their victims are otherwise uninjured and may live out their lifespans in the past.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_ANGELS_StartupTraitsDescription</Label>
+    <String>We do not need to kill to control the galaxy, simply tap the potential energy from the universe.</String>
+  </StringTable>  
+ 
+<!-- Toclafane Names and Descriptions -->
+  
+   <StringTable>
+    <Label>FACTION_TOCLAFANE_Name</Label>
+    <String>Toclafane</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_TOCLAFANE_ShortName</Label>
+    <String>Toclafane</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_TOCLAFANE_LeaderName</Label>
+    <String>The Master</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_TOCLAFANE_Dec</Label>
+    <String>Toclafane are a species of sentient orbs cannibalized from the bodies Humans and junk at the end of the universe.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_TOCLAFANE_LeaderDec</Label>
+    <String>An Evil Timelord known as The Master who is brilliant as he is insane Found the new humans called the Toclafane 18 Months after the end of the universe. He delivered the Toclafane to our universe in an attempt to start a new empire lasting 100 trillion years.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_TOCLAFANE_Callsign</Label>
+    <String>T.S.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_TOCLAFANE_StartupTitle</Label>
+    <String>STARTUP TITLE</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_TOCLAFANE_StartupDescription</Label>
+    <String>At the end of the universe in the year 900 trillion after all the stars burned out. Billions of Human beings were left in the Endless Dark and the Bitter Cold. They cannibalized there bodies and salvaged metal and circuitry and encased themselves in floating orbs to fly and blaze and slice across the dead space between the end of the old universe and start of the next</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_TOCLAFANE_StartupTraitsDescription</Label>
+    <String>ENTER STARTUP TRAITS DESCRIPTION HERE</String>
+  </StringTable>
+  
+   
+<!-- Sontaran Names and Descriptions -->
+  
+   <StringTable>
+    <Label>FACTION_SONTARAN_Name</Label>
+    <String>Sontaran</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_SONTARAN_ShortName</Label>
+    <String>Sontaran</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_SONTARAN_LeaderName</Label>
+    <String>Staal The Undefeated</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_SONTARAN_Dec</Label>
+    <String>Sontarans are a clone race of warring and strong humanoids all closely resembling one another with a stocky build and large domed heads.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_SONTARAN_LeaderDec</Label>
+    <String>General Stall of The 10th Sontaran battle fleet escaped after the doctor destroyed his fleet and created a new Sontaran empire in there home system of Sontar Known as Stall The Undefeated.  well,  The Not So Undefeated any more but never mind.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_SONTARAN_Callsign</Label>
+    <String>Sontar-Ha</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_SONTARAN_StartupTitle</Label>
+    <String>Sontar-HA!.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_SONTARAN_StartupDescription</Label>
+    <String>The New Sontaran Empire is becoming established in the universe and one day soon will wage war across the stars until they have either defeated everybody else or are killed in battle for the glory of the Sontaran Empire SONTAR-HA.</String>
+  </StringTable>
+ 
+  <StringTable>
+    <Label>FACTION_SONTARAN_StartupTraitsDescription</Label>
+    <String>Strong and warring clones fighting for the glory of the Sontaran Empire.  Sontar-HA!</String>
+  </StringTable>
+   
+</StringTableList>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<PlanetTraitList
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="../Schema/PlanetTraitDefs.xsd">
+<!-- Created with the Gal Civ 3 Editor -->
+<!-- PlanetTraitDefs.xml -->
+ 
+  <PlanetTrait>
+    <InternalName>NativeLandOfCheating</InternalName>
+    <DisplayName>Native Land Of Cheating</DisplayName>
+    <Description>Has special bonuses because Cheating!</Description>
+    <RelativeWeight>0</RelativeWeight>
+    <PlanetClassSelect>
+      <MinPlanetClass>20</MinPlanetClass>
+      <MaxPlanetClass>26</MaxPlanetClass>
+      <Weight>100</Weight>
+    </PlanetClassSelect>
+    <EffectModifier>
+      <EffectType>Manufacturing</EffectType>
+      <Target>
+        <TargetType>Colony</TargetType>
+      </Target>
+      <BonusType>Multiplier</BonusType>
+      <Value>1</Value>
+    </EffectModifier>
+    <EffectModifier>
+      <EffectType>Research</EffectType>
+      <Target>
+        <TargetType>Colony</TargetType>
+      </Target>
+      <BonusType>Multiplier</BonusType>
+      <Value>1</Value>
+    </EffectModifier>
+    <EffectModifier>
+      <EffectType>GoodsAndServices</EffectType>
+      <Target>
+        <TargetType>Colony</TargetType>
+      </Target>
+      <BonusType>Multiplier</BonusType>
+      <Value>1</Value>
+    </EffectModifier>
+    <EffectModifier>
+      <EffectType>Growth</EffectType>
+      <Target>
+        <TargetType>Colony</TargetType>
+      </Target>
+      <BonusType>Multiplier</BonusType>
+      <Value>1</Value>
+    </EffectModifier>
+  </PlanetTrait>
+ 
+</PlanetTraitList>
